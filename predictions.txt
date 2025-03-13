@@ -1,0 +1,18 @@
+Decrease Did not complete year 12, % by 20 percent
+Increase Holds degree or higher, % by 20 percent
+Result:
+Current mean low personal income across Victoria: 39.72
+This is the mean predicted low income percentage: 36.67
+Model predicts a reduction of low personal income by 3.05 percent
+
+Decrease Unemployment by 20 percent
+Current mean low personal income across Victoria: 39.72
+This is the mean predicted low income percentage: 38.43
+
+Reduce Poor English proficiency, % by 20 percent
+Current mean low personal income across Victoria: 39.72
+This is the mean predicted low income percentage: 39.56
+
+Same as first but also increased num of schools by 20 percent
+Current mean low personal income across Victoria: 39.72
+This is the mean predicted low income percentage: 36.14

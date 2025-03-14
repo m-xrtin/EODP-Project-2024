@@ -1,4 +1,4 @@
-# 🚀 W12G02 EODP Assignment 2
+# 🚀 EODP Project
 
 ## ❓ Research Question ❓
 How can we combat income disparity in Victoria?

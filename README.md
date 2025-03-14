@@ -3,6 +3,12 @@
 ## ❓ Research Question ❓
 How can we combat income disparity in Victoria?
 
+## 📄 Research Paper  
+This project explores income inequality across Victorian suburbs using data science techniques,  
+including statistical analysis and predictive modeling.
+
+📥 [Download Full Research Paper (PDF)](Thesis.pdf)
+
 ## How to run a program 🏃‍♂️💨
 To run an individual program: 
 ```py 

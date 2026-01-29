@@ -15,10 +15,10 @@ To run an individual program:
 python main.py file_name
 ```
 
-## What files did we use? 😠
+## What files did we use?
 EGM.csv: Contains gambling data by local government areas (LGAs) in Victoria.
 
-Table01.xlsx: Crime data sorted by LGA (We later limited to only the year2014 for crime data)
+Table01.xlsx: Crime data sorted by LGA (We later limited to only the year 2014 for crime data)
 
 Table03.xlsx: Contains additional data for use in certain analyses, such as types of offence, subcategories.
 
